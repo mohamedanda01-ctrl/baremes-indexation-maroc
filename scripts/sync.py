@@ -2,7 +2,7 @@
 """
 Miroir des barèmes d'indexation du Ministère de l'Équipement (Maroc).
 
-Exécuté chaque jour par GitHub Actions : lit la page officielle des barèmes,
+Exécuté par le PC de l'utilisateur (toutes les 10 min, tâche Windows) : lit la page officielle des barèmes,
 télécharge les PDF absents du dossier pdf/ (à partir de 2024) et met à jour
 catalogue.json. L'application « Révision des Prix » lit ensuite ces fichiers via
 raw.githubusercontent.com, que les navigateurs ont le droit de lire (CORS),
@@ -51,10 +51,18 @@ def main():
         f = os.path.join(PDF, *e['local'].split('/'))
         entrees.append({'cle': e['cle'], 'annee': e['annee'], 'mois': e['mois'], 'rectifie': e['rectifie'],
                         'url': e['url'], 'local': e['local'], 'miroir': os.path.isfile(f)})
-    data = {'genereLe': time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime()), 'source': PAGE_URL,
-            'depuis': DEPUIS, 'entrees': entrees}
-    with open(os.path.join(RACINE, 'catalogue.json'), 'w', encoding='utf-8') as fh:
-        json.dump(data, fh, ensure_ascii=False, indent=1)
+    # Catalogue réécrit seulement s'il a changé (le PC vérifie toutes les 10 min : pas de commit inutile)
+    chemin = os.path.join(RACINE, 'catalogue.json')
+    try:
+        with open(chemin, encoding='utf-8') as fh:
+            ancien = json.load(fh).get('entrees')
+    except Exception:
+        ancien = None
+    if ancien != entrees:
+        data = {'genereLe': time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime()), 'source': PAGE_URL,
+                'depuis': DEPUIS, 'entrees': entrees}
+        with open(chemin, 'w', encoding='utf-8') as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=1)
     print('Nouveaux PDF :', len(nouveaux), '| erreurs :', len(erreurs))
 
 

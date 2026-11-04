@@ -1,5 +1,5 @@
 {
- "genereLe": "2026-11-04 13:18 UTC",
+ "genereLe": "2026-11-04 14:43 UTC",
  "source": "https://www.equipement.gov.ma/Ingenierie/pages/revision-des-prix-baremes-indexation.aspx",
  "depuis": "2024-01",
  "entrees": [
@@ -2224,6 +2224,15 @@
    "rectifie": false,
    "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juin-2026.pdf",
    "local": "2026/06_juin_2026.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-07",
+   "annee": 2026,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juillet-2026.pdf",
+   "local": "2026/07_juillet_2026.pdf",
    "miroir": true
   }
  ]
