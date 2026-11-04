@@ -1,9 +1,10 @@
 name: Synchronisation des barèmes
 
+# Le site du Ministère refuse les connexions des serveurs GitHub (hors Maroc) :
+# la synchronisation est faite depuis un PC au Maroc (scripts/sync.py + git push).
+# Ce workflow reste disponible en lancement manuel, au cas où l'accès serait rétabli.
 on:
-  schedule:
-    - cron: '0 6 * * *'      # chaque jour à 06:00 UTC
-  workflow_dispatch:          # lancement manuel possible depuis l'onglet Actions
+  workflow_dispatch:
 
 permissions:
   contents: write
