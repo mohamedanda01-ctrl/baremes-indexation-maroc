@@ -1,0 +1,2230 @@
+{
+ "genereLe": "2026-11-04 00:47 UTC",
+ "source": "https://www.equipement.gov.ma/Ingenierie/pages/revision-des-prix-baremes-indexation.aspx",
+ "depuis": "2024-01",
+ "entrees": [
+  {
+   "cle": "2006-01",
+   "annee": 2006,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200601.pdf",
+   "local": "2006/01_janvier_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-02",
+   "annee": 2006,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200602.pdf",
+   "local": "2006/02_fevrier_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-03",
+   "annee": 2006,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200603.pdf",
+   "local": "2006/03_mars_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-04",
+   "annee": 2006,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200604.pdf",
+   "local": "2006/04_avril_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-05",
+   "annee": 2006,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2006-05.pdf",
+   "local": "2006/05_mai_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-06",
+   "annee": 2006,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200606.pdf",
+   "local": "2006/06_juin_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-07",
+   "annee": 2006,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200607.pdf",
+   "local": "2006/07_juillet_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-08",
+   "annee": 2006,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200608.pdf",
+   "local": "2006/08_aout_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-09",
+   "annee": 2006,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200609.pdf",
+   "local": "2006/09_septembre_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-10",
+   "annee": 2006,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200610.pdf",
+   "local": "2006/10_octobre_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-11",
+   "annee": 2006,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200611.pdf",
+   "local": "2006/11_novembre_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2006-12",
+   "annee": 2006,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200612.pdf",
+   "local": "2006/12_decembre_2006.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-01",
+   "annee": 2007,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200701.pdf",
+   "local": "2007/01_janvier_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-02",
+   "annee": 2007,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200702.pdf",
+   "local": "2007/02_fevrier_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-03",
+   "annee": 2007,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200703.pdf",
+   "local": "2007/03_mars_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-04",
+   "annee": 2007,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200704.pdf",
+   "local": "2007/04_avril_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-05",
+   "annee": 2007,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2007-05.pdf",
+   "local": "2007/05_mai_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-06",
+   "annee": 2007,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200706.pdf",
+   "local": "2007/06_juin_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-07",
+   "annee": 2007,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200707.pdf",
+   "local": "2007/07_juillet_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-08",
+   "annee": 2007,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200708.pdf",
+   "local": "2007/08_aout_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-09",
+   "annee": 2007,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200709.pdf",
+   "local": "2007/09_septembre_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-10",
+   "annee": 2007,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200710.pdf",
+   "local": "2007/10_octobre_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-11",
+   "annee": 2007,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200711.pdf",
+   "local": "2007/11_novembre_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2007-12",
+   "annee": 2007,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200712.pdf",
+   "local": "2007/12_decembre_2007.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-01",
+   "annee": 2008,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200801.pdf",
+   "local": "2008/01_janvier_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-02",
+   "annee": 2008,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200802.pdf",
+   "local": "2008/02_fevrier_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-03",
+   "annee": 2008,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200803.pdf",
+   "local": "2008/03_mars_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-04",
+   "annee": 2008,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200804.pdf",
+   "local": "2008/04_avril_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-05",
+   "annee": 2008,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2008-05.pdf",
+   "local": "2008/05_mai_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-06",
+   "annee": 2008,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200806.pdf",
+   "local": "2008/06_juin_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-07",
+   "annee": 2008,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200807.pdf",
+   "local": "2008/07_juillet_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-08",
+   "annee": 2008,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200808.pdf",
+   "local": "2008/08_aout_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-09",
+   "annee": 2008,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200809.pdf",
+   "local": "2008/09_septembre_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-10",
+   "annee": 2008,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200810.pdf",
+   "local": "2008/10_octobre_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-11",
+   "annee": 2008,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200811.pdf",
+   "local": "2008/11_novembre_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2008-12",
+   "annee": 2008,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200812.pdf",
+   "local": "2008/12_decembre_2008.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-01",
+   "annee": 2009,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200901.pdf",
+   "local": "2009/01_janvier_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-02",
+   "annee": 2009,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200902.pdf",
+   "local": "2009/02_fevrier_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-03",
+   "annee": 2009,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200903.pdf",
+   "local": "2009/03_mars_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-04",
+   "annee": 2009,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200904-05.pdf",
+   "local": "2009/04_avril_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-05",
+   "annee": 2009,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2009-05.pdf",
+   "local": "2009/05_mai_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-06",
+   "annee": 2009,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200906.pdf",
+   "local": "2009/06_juin_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-07",
+   "annee": 2009,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200907.pdf",
+   "local": "2009/07_juillet_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-08",
+   "annee": 2009,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200908.pdf",
+   "local": "2009/08_aout_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-09",
+   "annee": 2009,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200909.pdf",
+   "local": "2009/09_septembre_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-10",
+   "annee": 2009,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200910.pdf",
+   "local": "2009/10_octobre_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-11",
+   "annee": 2009,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200911.pdf",
+   "local": "2009/11_novembre_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2009-12",
+   "annee": 2009,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme200912.pdf",
+   "local": "2009/12_decembre_2009.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-01",
+   "annee": 2010,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201001.pdf",
+   "local": "2010/01_janvier_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-02",
+   "annee": 2010,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201002.pdf",
+   "local": "2010/02_fevrier_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-03",
+   "annee": 2010,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201003.pdf",
+   "local": "2010/03_mars_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-04",
+   "annee": 2010,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201004.pdf",
+   "local": "2010/04_avril_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-05",
+   "annee": 2010,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2010-05.pdf",
+   "local": "2010/05_mai_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-06",
+   "annee": 2010,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201006.pdf",
+   "local": "2010/06_juin_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-07",
+   "annee": 2010,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201007.pdf",
+   "local": "2010/07_juillet_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-08",
+   "annee": 2010,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201008.pdf",
+   "local": "2010/08_aout_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-09",
+   "annee": 2010,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201009.pdf",
+   "local": "2010/09_septembre_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-10",
+   "annee": 2010,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201010.pdf",
+   "local": "2010/10_octobre_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-11",
+   "annee": 2010,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201011.pdf",
+   "local": "2010/11_novembre_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2010-12",
+   "annee": 2010,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201012.pdf",
+   "local": "2010/12_decembre_2010.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-01",
+   "annee": 2011,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201101.pdf",
+   "local": "2011/01_janvier_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-02",
+   "annee": 2011,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201102.pdf",
+   "local": "2011/02_fevrier_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-03",
+   "annee": 2011,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201103.pdf",
+   "local": "2011/03_mars_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-04",
+   "annee": 2011,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201104.pdf",
+   "local": "2011/04_avril_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-05",
+   "annee": 2011,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2011-05.pdf",
+   "local": "2011/05_mai_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-06",
+   "annee": 2011,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201106.pdf",
+   "local": "2011/06_juin_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-07",
+   "annee": 2011,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201107.pdf",
+   "local": "2011/07_juillet_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-08",
+   "annee": 2011,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201108.pdf",
+   "local": "2011/08_aout_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-09",
+   "annee": 2011,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201109.pdf",
+   "local": "2011/09_septembre_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-10",
+   "annee": 2011,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201110.pdf",
+   "local": "2011/10_octobre_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-11",
+   "annee": 2011,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201111.pdf",
+   "local": "2011/11_novembre_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2011-12",
+   "annee": 2011,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201112.pdf",
+   "local": "2011/12_decembre_2011.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-01",
+   "annee": 2012,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201201.pdf",
+   "local": "2012/01_janvier_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-02",
+   "annee": 2012,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201202.pdf",
+   "local": "2012/02_fevrier_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-03",
+   "annee": 2012,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201203.pdf",
+   "local": "2012/03_mars_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-04",
+   "annee": 2012,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201204.pdf",
+   "local": "2012/04_avril_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-05",
+   "annee": 2012,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-2012-05.pdf",
+   "local": "2012/05_mai_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-06",
+   "annee": 2012,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201206.pdf",
+   "local": "2012/06_juin_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-07",
+   "annee": 2012,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201207.pdf",
+   "local": "2012/07_juillet_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-08",
+   "annee": 2012,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201208.pdf",
+   "local": "2012/08_aout_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-09",
+   "annee": 2012,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201209.pdf",
+   "local": "2012/09_septembre_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-10",
+   "annee": 2012,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201210.pdf",
+   "local": "2012/10_octobre_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-11",
+   "annee": 2012,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201211.pdf",
+   "local": "2012/11_novembre_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2012-12",
+   "annee": 2012,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201212.pdf",
+   "local": "2012/12_decembre_2012.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-01",
+   "annee": 2013,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201301.pdf",
+   "local": "2013/01_janvier_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-02",
+   "annee": 2013,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/Bareme201302.pdf",
+   "local": "2013/02_fevrier_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-03",
+   "annee": 2013,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/index%20Mars%202013.pdf",
+   "local": "2013/03_mars_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-04",
+   "annee": 2013,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Nouvel-Observatoire-du-BTP/Documents/index%20Avril%202013.pdf",
+   "local": "2013/04_avril_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-05",
+   "annee": 2013,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-indexation-mai-juin-juillet-2013.pdf",
+   "local": "2013/05_mai_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-06",
+   "annee": 2013,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juin-2013.pdf",
+   "local": "2013/06_juin_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-07",
+   "annee": 2013,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juillet-2013-2-version.pdf",
+   "local": "2013/07_juillet_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-08",
+   "annee": 2013,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme%20aout%202013.pdf",
+   "local": "2013/08_aout_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-09",
+   "annee": 2013,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-aout-septembre-2013.pdf",
+   "local": "2013/09_septembre_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-10",
+   "annee": 2013,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-octobre-2013.pdf",
+   "local": "2013/10_octobre_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-11",
+   "annee": 2013,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/novembre-decembre-2013-janvier-2014.pdf",
+   "local": "2013/11_novembre_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2013-12",
+   "annee": 2013,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/decembre-janvier-fevrier-2014.pdf",
+   "local": "2013/12_decembre_2013.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-01",
+   "annee": 2014,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-01-2014.pdf",
+   "local": "2014/01_janvier_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-02",
+   "annee": 2014,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/fevrier-mars-avril-2014.pdf",
+   "local": "2014/02_fevrier_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-03",
+   "annee": 2014,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Mars-Avril-Mai-2014.pdf",
+   "local": "2014/03_mars_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-04",
+   "annee": 2014,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mois-Avril-Mai-Juin-2014.pdf",
+   "local": "2014/04_avril_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-05",
+   "annee": 2014,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Mai-Juin-Juillet-2014.pdf",
+   "local": "2014/05_mai_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-06",
+   "annee": 2014,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Juin-Juillet-Aout-2014.pdf",
+   "local": "2014/06_juin_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-07",
+   "annee": 2014,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juillet-2014.pdf",
+   "local": "2014/07_juillet_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-08",
+   "annee": 2014,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-Aout-2014.pdf",
+   "local": "2014/08_aout_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-09",
+   "annee": 2014,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-Septembre-2014.pdf",
+   "local": "2014/09_septembre_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-10",
+   "annee": 2014,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-octobre-2014.pdf",
+   "local": "2014/10_octobre_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-11",
+   "annee": 2014,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-novembre-2014.pdf",
+   "local": "2014/11_novembre_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2014-12",
+   "annee": 2014,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-decembre-2014.pdf",
+   "local": "2014/12_decembre_2014.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-01",
+   "annee": 2015,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Janvier-2015.pdf",
+   "local": "2015/01_janvier_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-02",
+   "annee": 2015,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Fevrier-2015.pdf",
+   "local": "2015/02_fevrier_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-03",
+   "annee": 2015,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Mars-2015.pdf",
+   "local": "2015/03_mars_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-04",
+   "annee": 2015,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-Avril-2015.pdf",
+   "local": "2015/04_avril_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-05",
+   "annee": 2015,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-Mai-2015.pdf",
+   "local": "2015/05_mai_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-06",
+   "annee": 2015,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juin-2015.pdf",
+   "local": "2015/06_juin_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-07",
+   "annee": 2015,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Juillet-2015-2.pdf",
+   "local": "2015/07_juillet_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-08",
+   "annee": 2015,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Aout-2015.pdf",
+   "local": "2015/08_aout_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-09",
+   "annee": 2015,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Septembre-2015.pdf",
+   "local": "2015/09_septembre_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-10",
+   "annee": 2015,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Octobre-2015.pdf",
+   "local": "2015/10_octobre_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-11",
+   "annee": 2015,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-nov-2015.pdf",
+   "local": "2015/11_novembre_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2015-12",
+   "annee": 2015,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-decembre-2015.pdf",
+   "local": "2015/12_decembre_2015.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-01",
+   "annee": 2016,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-janvier-2016.pdf",
+   "local": "2016/01_janvier_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-02",
+   "annee": 2016,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Fevrier-2016.pdf",
+   "local": "2016/02_fevrier_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-03",
+   "annee": 2016,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Mars-2016.pdf",
+   "local": "2016/03_mars_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-04",
+   "annee": 2016,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-avril-2016.pdf",
+   "local": "2016/04_avril_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-05",
+   "annee": 2016,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Mai-2016.pdf",
+   "local": "2016/05_mai_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-06",
+   "annee": 2016,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juin-2016.pdf",
+   "local": "2016/06_juin_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-07",
+   "annee": 2016,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juillet-2016.pdf",
+   "local": "2016/07_juillet_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-08",
+   "annee": 2016,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-Aout-2016.pdf",
+   "local": "2016/08_aout_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-09",
+   "annee": 2016,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-septembre-2016.pdf",
+   "local": "2016/09_septembre_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-10",
+   "annee": 2016,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-octobre-2016.pdf",
+   "local": "2016/10_octobre_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-11",
+   "annee": 2016,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-novembre-2016.pdf",
+   "local": "2016/11_novembre_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2016-12",
+   "annee": 2016,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-decembre-2016.pdf",
+   "local": "2016/12_decembre_2016.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-01",
+   "annee": 2017,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-janvier-2017.pdf",
+   "local": "2017/01_janvier_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-02",
+   "annee": 2017,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-fevrier-2017.pdf",
+   "local": "2017/02_fevrier_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-03",
+   "annee": 2017,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mars-2017.pdf",
+   "local": "2017/03_mars_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-04",
+   "annee": 2017,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-AVRIL-2017.pdf",
+   "local": "2017/04_avril_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-05",
+   "annee": 2017,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mai-2017.pdf",
+   "local": "2017/05_mai_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-06",
+   "annee": 2017,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-Juin-2017.pdf",
+   "local": "2017/06_juin_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-07",
+   "annee": 2017,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/baremeJuil_2017.pdf",
+   "local": "2017/07_juillet_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-08",
+   "annee": 2017,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-aout-2017.pdf",
+   "local": "2017/08_aout_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-09",
+   "annee": 2017,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-septembre-2017.pdf",
+   "local": "2017/09_septembre_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-10",
+   "annee": 2017,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-octobre-2017.pdf",
+   "local": "2017/10_octobre_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-11",
+   "annee": 2017,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-novembre-2017.pdf",
+   "local": "2017/11_novembre_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2017-12",
+   "annee": 2017,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-dec-2017-1.pdf",
+   "local": "2017/12_decembre_2017.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-01",
+   "annee": 2018,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-jan-2018.pdf",
+   "local": "2018/01_janvier_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-02",
+   "annee": 2018,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-fevrier-2018.pdf",
+   "local": "2018/02_fevrier_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-03",
+   "annee": 2018,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mars-2018.pdf",
+   "local": "2018/03_mars_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-04",
+   "annee": 2018,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-avril-mai-juin-2018.pdf",
+   "local": "2018/04_avril_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-05",
+   "annee": 2018,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mai-2018.pdf",
+   "local": "2018/05_mai_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-06",
+   "annee": 2018,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juin-2018.pdf",
+   "local": "2018/06_juin_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-07",
+   "annee": 2018,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juillet-2018.pdf",
+   "local": "2018/07_juillet_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-08",
+   "annee": 2018,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-aout-2018.pdf",
+   "local": "2018/08_aout_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-09",
+   "annee": 2018,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-septembre-2018.pdf",
+   "local": "2018/09_septembre_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-10",
+   "annee": 2018,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-octobre-2018.pdf",
+   "local": "2018/10_octobre_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-11",
+   "annee": 2018,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-nov-2018.pdf",
+   "local": "2018/11_novembre_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2018-12",
+   "annee": 2018,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/BAREME-DECEMBRE-2018.pdf",
+   "local": "2018/12_decembre_2018.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-01",
+   "annee": 2019,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/BAREME-JANVIER-2019.pdf",
+   "local": "2019/01_janvier_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-02",
+   "annee": 2019,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-fevrier-2019.pdf",
+   "local": "2019/02_fevrier_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-03",
+   "annee": 2019,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mars-2019.pdf",
+   "local": "2019/03_mars_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-04",
+   "annee": 2019,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-avril-2019.pdf",
+   "local": "2019/04_avril_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-05",
+   "annee": 2019,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-mai-2019.pdf",
+   "local": "2019/05_mai_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-06",
+   "annee": 2019,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-juin-2019.pdf",
+   "local": "2019/06_juin_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-07",
+   "annee": 2019,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/DocumentsActualites/Bareme-juillet-2019.pdf",
+   "local": "2019/07_juillet_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-08",
+   "annee": 2019,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-aout-2019.pdf",
+   "local": "2019/08_aout_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-09",
+   "annee": 2019,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-septembre-2019.pdf",
+   "local": "2019/09_septembre_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-10",
+   "annee": 2019,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-octobre-2019.pdf",
+   "local": "2019/10_octobre_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-11",
+   "annee": 2019,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-novembre-2019.pdf",
+   "local": "2019/11_novembre_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2019-12",
+   "annee": 2019,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/bareme-decembre-2019.pdf",
+   "local": "2019/12_decembre_2019.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-01",
+   "annee": 2020,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-janvier-2020-1.pdf",
+   "local": "2020/01_janvier_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-02",
+   "annee": 2020,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-fevrier-2020.pdf",
+   "local": "2020/02_fevrier_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-03",
+   "annee": 2020,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-mars-2020.pdf",
+   "local": "2020/03_mars_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-04",
+   "annee": 2020,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Documents%20Info%20Services/Bareme-avril-2020.pdf",
+   "local": "2020/04_avril_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-05",
+   "annee": 2020,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-mai-2020.pdf",
+   "local": "2020/05_mai_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-06",
+   "annee": 2020,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-juin-2020.pdf",
+   "local": "2020/06_juin_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-07",
+   "annee": 2020,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-juillet-2020.pdf",
+   "local": "2020/07_juillet_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-07",
+   "annee": 2020,
+   "mois": 7,
+   "rectifie": true,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-Rectifie-Juil-Aout-Sept-Oct-Nov.pdf",
+   "local": "2020/Bareme-Rectifie-Juil-Aout-Sept-Oct-Nov.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-08",
+   "annee": 2020,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-aout-2020.pdf",
+   "local": "2020/08_aout_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-09",
+   "annee": 2020,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-septembre-2020.pdf",
+   "local": "2020/09_septembre_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-10",
+   "annee": 2020,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-octobre-2020.pdf",
+   "local": "2020/10_octobre_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-11",
+   "annee": 2020,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-Novembre-2020.pdf",
+   "local": "2020/11_novembre_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2020-12",
+   "annee": 2020,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-decembre-2020-1.pdf",
+   "local": "2020/12_decembre_2020.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-01",
+   "annee": 2021,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-janvier-2021.pdf",
+   "local": "2021/01_janvier_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-02",
+   "annee": 2021,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-fevrier-2021.pdf",
+   "local": "2021/02_fevrier_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-03",
+   "annee": 2021,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-mars-2021.pdf",
+   "local": "2021/03_mars_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-04",
+   "annee": 2021,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-avril-2021.pdf",
+   "local": "2021/04_avril_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-05",
+   "annee": 2021,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-mai-2021.pdf",
+   "local": "2021/05_mai_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-06",
+   "annee": 2021,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-juin-2021.pdf",
+   "local": "2021/06_juin_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-07",
+   "annee": 2021,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-juillet-2021.pdf",
+   "local": "2021/07_juillet_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-08",
+   "annee": 2021,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-aout-2021.pdf",
+   "local": "2021/08_aout_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-09",
+   "annee": 2021,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-septembre-2021.pdf",
+   "local": "2021/09_septembre_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-10",
+   "annee": 2021,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-Octobre-2021.pdf",
+   "local": "2021/10_octobre_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-11",
+   "annee": 2021,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-Novembre-2021.pdf",
+   "local": "2021/11_novembre_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2021-12",
+   "annee": 2021,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-Decembre-2021.pdf",
+   "local": "2021/12_decembre_2021.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-01",
+   "annee": 2022,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-janvier-2022.pdf",
+   "local": "2022/01_janvier_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-02",
+   "annee": 2022,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-fevrier-2022.pdf",
+   "local": "2022/02_fevrier_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-03",
+   "annee": 2022,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mars-2022.pdf",
+   "local": "2022/03_mars_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-04",
+   "annee": 2022,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-avril-2022.pdf",
+   "local": "2022/04_avril_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-05",
+   "annee": 2022,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mai-2022.pdf",
+   "local": "2022/05_mai_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-06",
+   "annee": 2022,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-juin-2022.pdf",
+   "local": "2022/06_juin_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-07",
+   "annee": 2022,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juillet-2022.pdf",
+   "local": "2022/07_juillet_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-08",
+   "annee": 2022,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-aout-2022.pdf",
+   "local": "2022/08_aout_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-09",
+   "annee": 2022,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-septembre-2022.pdf",
+   "local": "2022/09_septembre_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-10",
+   "annee": 2022,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-octobre-2022.pdf",
+   "local": "2022/10_octobre_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-11",
+   "annee": 2022,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-novembre--2022.pdf",
+   "local": "2022/11_novembre_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2022-12",
+   "annee": 2022,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-decembre-2022.pdf",
+   "local": "2022/12_decembre_2022.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-01",
+   "annee": 2023,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-janvier-.2023.pdf",
+   "local": "2023/01_janvier_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-02",
+   "annee": 2023,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-fevrier-.2023.pdf",
+   "local": "2023/02_fevrier_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-03",
+   "annee": 2023,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mars-2023.pdf",
+   "local": "2023/03_mars_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-04",
+   "annee": 2023,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-avril-2023.pdf",
+   "local": "2023/04_avril_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-05",
+   "annee": 2023,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mai-2023.pdf",
+   "local": "2023/05_mai_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-06",
+   "annee": 2023,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juin-2023-.pdf",
+   "local": "2023/06_juin_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-07",
+   "annee": 2023,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juillet-2023-2.pdf",
+   "local": "2023/07_juillet_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-08",
+   "annee": 2023,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-aout-2023.pdf",
+   "local": "2023/08_aout_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-09",
+   "annee": 2023,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-septembre-2023.pdf",
+   "local": "2023/09_septembre_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-10",
+   "annee": 2023,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-octobre-2023.pdf",
+   "local": "2023/10_octobre_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-11",
+   "annee": 2023,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-novembre-2023.pdf",
+   "local": "2023/11_novembre_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2023-12",
+   "annee": 2023,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-decembre-2023.pdf",
+   "local": "2023/12_decembre_2023.pdf",
+   "miroir": false
+  },
+  {
+   "cle": "2024-01",
+   "annee": 2024,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-janvier-2024.pdf",
+   "local": "2024/01_janvier_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-02",
+   "annee": 2024,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-fevrier-2024.pdf",
+   "local": "2024/02_fevrier_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-03",
+   "annee": 2024,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mars-2024.pdf",
+   "local": "2024/03_mars_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-04",
+   "annee": 2024,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-avril-2024.pdf",
+   "local": "2024/04_avril_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-05",
+   "annee": 2024,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mai-2024.pdf",
+   "local": "2024/05_mai_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-06",
+   "annee": 2024,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juin-2024.pdf",
+   "local": "2024/06_juin_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-07",
+   "annee": 2024,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juillet-2024.pdf",
+   "local": "2024/07_juillet_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-08",
+   "annee": 2024,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-aout-2024.pdf",
+   "local": "2024/08_aout_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-09",
+   "annee": 2024,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-septembre-2024.pdf",
+   "local": "2024/09_septembre_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-10",
+   "annee": 2024,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-octobre-2024.pdf",
+   "local": "2024/10_octobre_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-11",
+   "annee": 2024,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-novembre-2024.pdf",
+   "local": "2024/11_novembre_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2024-12",
+   "annee": 2024,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-decembre-2024.pdf",
+   "local": "2024/12_decembre_2024.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-01",
+   "annee": 2025,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-janvier-2025.pdf",
+   "local": "2025/01_janvier_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-02",
+   "annee": 2025,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-fevrier-2025.pdf",
+   "local": "2025/02_fevrier_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-03",
+   "annee": 2025,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mars-2025.pdf",
+   "local": "2025/03_mars_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-04",
+   "annee": 2025,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-avril-2025.pdf",
+   "local": "2025/04_avril_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-05",
+   "annee": 2025,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mai-2025.pdf",
+   "local": "2025/05_mai_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-06",
+   "annee": 2025,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juin-2025.pdf",
+   "local": "2025/06_juin_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-07",
+   "annee": 2025,
+   "mois": 7,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juillet-2025.pdf",
+   "local": "2025/07_juillet_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-08",
+   "annee": 2025,
+   "mois": 8,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/bareme-aout-2025.pdf",
+   "local": "2025/08_aout_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-09",
+   "annee": 2025,
+   "mois": 9,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-septembre-2025.pdf",
+   "local": "2025/09_septembre_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-10",
+   "annee": 2025,
+   "mois": 10,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-octobre-2025.pdf",
+   "local": "2025/10_octobre_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-11",
+   "annee": 2025,
+   "mois": 11,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-novembre-2025.pdf",
+   "local": "2025/11_novembre_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2025-12",
+   "annee": 2025,
+   "mois": 12,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-decembre-2025.pdf",
+   "local": "2025/12_decembre_2025.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-01",
+   "annee": 2026,
+   "mois": 1,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-janvier-2026.pdf",
+   "local": "2026/01_janvier_2026.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-02",
+   "annee": 2026,
+   "mois": 2,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-fevrier-2026.pdf",
+   "local": "2026/02_fevrier_2026.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-03",
+   "annee": 2026,
+   "mois": 3,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mars-2026.pdf",
+   "local": "2026/03_mars_2026.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-04",
+   "annee": 2026,
+   "mois": 4,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-avril-2026.pdf",
+   "local": "2026/04_avril_2026.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-05",
+   "annee": 2026,
+   "mois": 5,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-mai-2026.pdf",
+   "local": "2026/05_mai_2026.pdf",
+   "miroir": true
+  },
+  {
+   "cle": "2026-06",
+   "annee": 2026,
+   "mois": 6,
+   "rectifie": false,
+   "url": "https://www.equipement.gov.ma/Ingenierie/Documents/Bareme-juin-2026.pdf",
+   "local": "2026/06_juin_2026.pdf",
+   "miroir": true
+  }
+ ]
+}
